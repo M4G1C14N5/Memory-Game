@@ -39,7 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![]()
+![MemoryGame](https://user-images.githubusercontent.com/63421640/110892363-eb206580-82c1-11eb-8783-98b7c8f4071e.gif)
+
+![MemoryGameWrongGuess](https://user-images.githubusercontent.com/63421640/110892402-fc697200-82c1-11eb-901d-6194a521a601.gif)
+
 
 
 ## Reflection Questions
